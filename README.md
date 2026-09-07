@@ -22,6 +22,13 @@
 
 ---
 
+## 📄 Resume
+
+[![Download PDF](https://img.shields.io/badge/Resume-Download%20PDF-8B0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/fyc09/fyc09/raw/master/resume/resume.pdf)
+[![HTML Source](https://img.shields.io/badge/Resume-HTML%20Source-333333?style=flat-square&logo=html5&logoColor=white)](https://github.com/fyc09/fyc09/blob/master/resume/index.html)
+
+---
+
 ## ✨ Featured Projects
 
 | Project                                                           | Description                                                                                                                                                           |
