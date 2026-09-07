@@ -48,15 +48,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fyc09&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyc09&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=fyc09&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fyc09&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- 📧 Email: `fuyuchen0904@163.com`
+- 📧 Email: [fuyuchen0904@163.com](mailto:fuyuchen0904@163.com)
 - 🐙 GitHub: https://github.com/fyc09
 
 <p align="center">
