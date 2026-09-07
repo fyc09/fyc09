@@ -4,6 +4,8 @@
 
 <i>Undergraduate in AI @ Xi'an Jiaotong University · Youth Gifted Program (少年班)</i>
 
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-8B0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/fyc09/fyc09/raw/master/resume/resume.pdf)
+
 [![Email](https://img.shields.io/badge/Email-fuyuchen0904%40163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fuyuchen0904@163.com)
 [![Blog](https://img.shields.io/badge/Website-fyc09.github.io-2962FF?style=flat-square&logo=github&logoColor=white)](https://fyc09.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-fyc09-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fyc09)
@@ -19,13 +21,6 @@
 - 🛠️ I love turning ideas into working software — from everyday life tools to agent orchestration systems
 - 🌱 Currently exploring: multi-agent systems, agent tooling & developer platforms
 - 📫 Open to collaboration: `fuyuchen0904@163.com`
-
----
-
-## 📄 Resume
-
-[![Download PDF](https://img.shields.io/badge/Resume-Download%20PDF-8B0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/fyc09/fyc09/raw/master/resume/resume.pdf)
-[![HTML Source](https://img.shields.io/badge/Resume-HTML%20Source-333333?style=flat-square&logo=html5&logoColor=white)](https://github.com/fyc09/fyc09/blob/master/resume/index.html)
 
 ---
 
